@@ -1,0 +1,8 @@
+.DS_Store
+.DS_Store?
+.vscode/
+data/raw/
+data/processed/
+*.log
+logs/
+/notebooks/.ipynb_checkpoints
